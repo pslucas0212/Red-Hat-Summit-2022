@@ -12,6 +12,7 @@ Updated 11 May 2022
 - [Top new features in Red Hat Enterprise Linux 8.6](https://www.redhat.com/en/blog/top-new-features-red-hat-enterprise-linux-86)
 - [Red Hat Defines a New Epicenter for Innovation with Red Hat Enterprise Linux 9](https://www.redhat.com/en/about/press-releases/red-hat-defines-new-epicenter-innovation-red-hat-enterprise-linux-9)
 - [Red Hat Partners Deliver Hybrid Cloud Innovation From the Datacenter to the Edge on Red Hat Enterprise Linux](https://www.redhat.com/en/about/press-releases/red-hat-partners-deliver-hybrid-cloud-innovation-datacenter-edge-red-hat-enterprise-linux)
+- [Red Hat Enterprise Linux 9: Stable anywhere. Available everywhere](https://www.youtube.com/watch?v=SFCUvjyay88) - Short RHEL 9 Intro on YouTube
 
 
 
