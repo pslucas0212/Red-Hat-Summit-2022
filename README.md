@@ -41,3 +41,9 @@ Updated 11 May 2022
 
 ### Customer
 - [How Nokia and Red Hat are bringing cloud RAN to reality](https://www.redhat.com/en/blog/how-nokia-and-red-hat-are-bringing-cloud-ran-reality?channel=blog/channel/red-hat-summit)
+- [Department for Work and Pensions Improves Service Delivery Time to Meet Record Demand with Red Hat](https://www.redhat.com/en/about/press-releases/department-work-and-pensions-improves-service-delivery-time-meet-record-demand-red-hat)
+- [BITMARCK Taps Red Hat to Transform Patient Experience Across the Spectrum of Care](https://www.redhat.com/en/about/press-releases/bitmarck-taps-red-hat-transform-patient-experience-across-spectrum-care)
+- [Electrical Training Alliance Selects Red Hat’s Managed Cloud Offerings to Optimize IT Architecture](https://www.redhat.com/en/about/press-releases/electrical-training-alliance-selects-red-hats-managed-cloud-offerings-optimize-it-architecture)
+
+### Partners
+- [Red Hat and Accenture Expand Alliance to Accelerate Hybrid Cloud Innovation](https://www.redhat.com/en/about/press-releases/red-hat-and-accenture-expand-alliance-accelerate-hybrid-cloud-innovation)
