@@ -4,6 +4,9 @@ Updated 11 May 2022
 
 [Table of Contents - Useful Red Hat Links](https://github.com/pslucas0212/UsefulRedHatLinks)
 
+## Registration
+- [Red Hat Summit Registration](https://reg.experiences.redhat.com/flow/redhat/sum22/registration2022virtual/) - When you register (free) for Red Hat Summit you have access to all the recorded content.  This is a great way to catch up on the latest technologies from Red Hat when you have a few spare moments.
+
 ### RHEL Announcements
 - [Announcing full support for new Red Hat Enterprise Linux image builder service](https://www.redhat.com/en/blog/announcing-full-support-new-red-hat-enterprise-linux-image-builder-service?sc_cid=7013a000002pyDgAAI)
 - [The new standard: Red Hat In-Vehicle Operating System in modern and future vehicles](https://www.redhat.com/en/blog/new-standard-red-hat-vehicle-operating-system-modern-and-future-vehicles)
