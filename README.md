@@ -1,6 +1,6 @@
 # Red Hat Summit 2022 Announcements
 
-Updated 11 May 2022
+Updated 12 May 2022
 
 [Table of Contents - Useful Red Hat Links](https://github.com/pslucas0212/UsefulRedHatLinks)
 
@@ -41,6 +41,7 @@ Updated 11 May 2022
 - [The new normal for IT starts with open source](https://www.redhat.com/en/blog/new-normal-it-starts-open-source)
 - [Fueling the spark of innovation](https://www.redhat.com/en/blog/fueling-spark-innovation)
 - [Red Hat and General Motors Collaborate to Trailblaze the Future of Software-Defined Vehicles](https://www.redhat.com/en/about/press-releases/red-hat-and-general-motors-collaborate-trailblaze-future-software-defined-vehicles)
+- [How CIOs can build the future they want with open source](https://www.redhat.com/en/blog/how-cios-can-build-future-they-want-open-source)
 
 ### Customer
 - [How Nokia and Red Hat are bringing cloud RAN to reality](https://www.redhat.com/en/blog/how-nokia-and-red-hat-are-bringing-cloud-ran-reality?channel=blog/channel/red-hat-summit)
@@ -50,3 +51,4 @@ Updated 11 May 2022
 
 ### Partners
 - [Red Hat and Accenture Expand Alliance to Accelerate Hybrid Cloud Innovation](https://www.redhat.com/en/about/press-releases/red-hat-and-accenture-expand-alliance-accelerate-hybrid-cloud-innovation)
+- [Catalyzing an ecosystem of co-creators for the cloud](https://www.redhat.com/en/blog/catalyzing-ecosystem-co-creators-cloud)
