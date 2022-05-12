@@ -32,6 +32,7 @@ Updated 12 May 2022
 - [Your Guide to the Red Hat Data Science Model Lifecycle](https://cloud.redhat.com/blog/your-guide-to-the-red-hat-data-science-model-lifecycle)
 - [Improve the developer experience and process, from local to Kubernetes](https://developers.redhat.com/articles/2022/05/10/improve-developer-experience-and-process-local-kubernetes)
 - [What’s new in OpenShift Local 2.0](https://www.redhat.com/en/about/press-releases/red-hat-and-general-motors-collaborate-trailblaze-future-software-defined-vehicles)
+- [Developer tools rebrand, say farewell to CodeReady name](https://developers.redhat.com/articles/2022/05/12/developer-tools-rebrand-say-farewell-codeready-name)
 
 ### Edge
 - [Red Hat Introduces New Cross-Portfolio Edge Capabilities](https://www.redhat.com/en/about/press-releases/red-hat-introduces-new-cross-portfolio-edge-capabilities)
